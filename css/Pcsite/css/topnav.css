@@ -1,0 +1,21 @@
+.topnav {
+  background-color: #fff;
+  height: 60px;
+  width: 100%;
+}
+.topnav .main .topnav-logo {
+  margin-top: 10px;
+}
+.topnav .main .topnav-nav a {
+  margin-right: 45px;
+  line-height: 60px;
+}
+.topnav .main .topnav-nav a:hover {
+  color: #7cd1bf;
+}
+.topnav .main .topnav-nav a:last-child {
+  margin-right: 0;
+}
+.topnav .main .topnav-nav a:last-child img {
+  vertical-align: middle;
+}
